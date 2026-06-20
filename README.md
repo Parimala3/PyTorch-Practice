@@ -1,4 +1,4 @@
-# 🚀 PyTorch Learning - Day 1
+# 🚀 PyTorch Learning
 
 Welcome to my **PyTorch Learning Journey**! This repository contains the code and notes I used to learn the fundamentals of PyTorch.
 
